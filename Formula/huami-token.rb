@@ -1,9 +1,9 @@
 class HuamiToken < Formula
   desc "Retrieve Huami and Xiaomi Bluetooth pairing keys"
   homepage "https://github.com/SubhrajyotiSen/huami-token-kmp"
-  url "https://github.com/SubhrajyotiSen/huami-token-kmp/releases/download/v1.0.0/cli.zip"
-  version "1.0.0"
-  sha256 "45498ccab25c9b75406771ea545830264404c673ab1bca6c890f1083b61b0dd0"
+  url "https://github.com/SubhrajyotiSen/huami-token-kmp/releases/download/v1.0.1/cli.zip"
+  version "1.0.1"
+  sha256 "7b5412df4c0ab9b19ca45bc9584fdb19dbebec34f6240bf350462c707782661e"
 
   depends_on "openjdk"
 
